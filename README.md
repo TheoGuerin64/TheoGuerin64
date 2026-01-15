@@ -1,1 +1,1 @@
-### Moved to gitlab: https://gitlab.com/theo-guerin
+### Moved to gitlab: https://codeberg.org/theo-guerin
